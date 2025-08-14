@@ -2,7 +2,10 @@
 
 This repository contains stickers for some Bioconductor packages. Fork
 this repo and create a pull request if you would like to add a sticker
-for your package too. If you would like to modify existing ones,
+for your package too. Please also add your sticker to the main REAMDE file
+(ordered alphabetically). Please limite the sticker file size(s) to 500KB.
+
+If you would like to modify existing ones,
 please open an issue and discuss changes with the sticker maintainer.
 
 ## Package stickers
@@ -23,8 +26,10 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="atena/README.md"><img src="atena/atena.png" height="100"></a>
 <a href="BANDITS/README.md"><img src="BANDITS/BANDITS.png" height="100"></a>
 <a href="bandle/README.md"><img src="bandle/bandle.png" height="100"></a>
+<a href="barbieQ/README.md"><img src="barbieQ/barbieQ.png" height="100"></a>
 <a href="BASiCS/README.md"><img src="BASiCS/BASiCS.png" height="100"></a>
 <a href="beadarray/README.md"><img src="beadarray/beadarray.png" height="100"></a>
+<a href="benchdamic/README.md"><img src="benchdamic/benchdamic.png" height="100"></a>
 <a href="bettr/README.md"><img src="bettr/bettr.png" height="100"></a>
 <a href="Biobase/README.md"><img src="Biobase/Biobase.png" height="100"></a>
 <a href="BiocCheck/README.md"><img src="BiocCheck/BiocCheck.png" height="100"></a>
@@ -39,6 +44,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="Biostrings/README.md"><img src="Biostrings/Biostrings.png" height="100"></a>
 <a href="bsseq/README.md"><img src="bsseq/bsseq.png" height="100"></a>
 <a href="CATALYST/README.md"><img src="CATALYST/CATALYST.png" height="100"></a>
+<a href="CatsCradle/README.md"><img src="CatsCradle/CatsCradle.png" height="100"></a>
 <a href="CellBench/README.md"><img src="CellBench/CellBench.png" height="100"></a>
 <a href="celldex/README.md"><img src="celldex/celldex_sticker.png" height="100"></a>
 <a href="ChIPseeker/README.md"><img src="ChIPseeker/ChIPseeker.png" height="100"></a>
@@ -114,6 +120,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="InterMineR/README.md"><img src="InterMineR/InterMineR.png" height="100"></a>
 <a href="IRanges/README.md"><img src="IRanges/IRanges.png" height="100"></a>
 <a href="iSEE/README.md"><img src="iSEE/iSEE.png" height="100"></a>
+<a href="iSEEfier/README.md"><img src="iSEEfier/iSEEfier.png" height="100"></a>
 <a href="iSEEu/README.md"><img src="iSEEu/iSEEu.png" height="100"></a>
 <a href="isomiRs/README.md"><img src="isomiRs/isomirs.png" height="100"></a>
 <a href="limma/README.md"><img src="limma/limma.png" height="100"></a>
@@ -129,11 +136,13 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="mia/README.md"><img src="mia/mia.png" height="100"></a>
 <a href="minfi/README.md"><img src="minfi/minfi.png" height="100"></a>
 <a href="missMethyl/README.md"><img src="missMethyl/missMethyl.png" height="100"></a>
+<a href="mitology/README.md"><img src="mitology/mitology.png" height="100"></a>
 <a href="MobilityTransformR/README.md"><img src="MobilityTransformR/MobilityTransformR.png" height="100"></a>
 <a href="Modstrings/README.md"><img src="Modstrings/Modstrings.png" height="100"></a>
 <a href="mogsa/README.md"><img src="mogsa/mogsa.png" height="100"></a>
-<a href="MoleculeExperiment/README.md"><img src="MoleculeExperiment/1200_logo.png" height="100"></a>
+<a href="MoleculeExperiment/README.md"><img src="MoleculeExperiment/400_pxsinch_logo.png" height="100"></a>
 <a href="monaLisa/README.md"><img src="monaLisa/monaLisa.png" height="100"></a>
+<a href="MOSClip/README.md"><img src="MOSClip/MOSClip.png" height="100"></a>
 <a href="MotifPeeker/README.md"><img src="MotifPeeker/MotifPeeker.png" height="100"></a>
 <a href="motifTestR/README.md"><img src="motifTestR/motifTestR.png" height="100"></a>
 <a href="MsBackendMassbank/README.md"><img src="MsBackendMassbank/MsBackendMassbank.png" height="100"></a>
@@ -170,7 +179,6 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="RNAmodR/README.md"><img src="RNAmodR/RNAmodR.png" height="100"></a>
 <a href="Rsamtools/README.md"><img src="Rsamtools/Rsamtools.png" height="100"></a>
 <a href="Rsubread/README.md"><img src="Rsubread/Rsubread.png" height="100"></a>
-<a href="RUV/README.md"><img src="RUV/RUV.png" height="100"></a>
 <a href="RUVcorr/README.md"><img src="RUVcorr/RUVcorr.png" height="100"></a>
 <a href="RUVnormalize/README.md"><img src="RUVnormalize/RUVnormalize.png" height="100"></a>
 <a href="RUVSeq/README.md"><img src="RUVSeq/RUVSeq.png" height="100"></a>
@@ -186,6 +194,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="scry/README.md"><img src="scry/scry.png" height="100"></a>
 <a href="scTensor/README.md"><img src="scTensor/scTensor.png" height="100"></a>
 <a href="scTGIF/README.md"><img src="scTGIF/scTGIF.png" height="100"></a>
+<a href="signifinder/README.md"><img src="signifinder/signifinder.png" height="100"></a>
 <a href="SingleCellExperiment/README.md"><img src="SingleCellExperiment/SingleCellExperiment.png" height="100"></a>
 <a href="SingleCellMultiModal/README.md"><img src="SingleCellMultiModal/SingleCellMultiModal.png" height="100"></a>
 <a href="SingleR/README.md"><img src="SingleR/SingleR_sticker_invert.png" height="100"></a>
@@ -193,6 +202,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="sketchR/README.md"><img src="sketchR/sketchR.png" height="100"></a>
 <a href="slingshot/README.md"><img src="slingshot/slingshot.png" height="100"></a>
 <a href="smartid/README.md"><img src="smartid/smartid.svg" height="100"></a>
+<a href="sosta/README.md"><img src="sosta/sosta.svg" height="100"></a>
 <a href="SparseArray/README.md"><img src="SparseArray/SparseArray.png" height="100"></a>
 <a href="SpatialExperiment/README.md"><img src="SpatialExperiment/SpatialExperiment.png" height="100"></a>
 <a href="SpatialExperimentIO/README.md"><img src="SpatialExperimentIO/SpatialExperimentIO.png" height="100"></a>
@@ -238,7 +248,7 @@ please open an issue and discuss changes with the sticker maintainer.
 Stickers for some of the Bioconductor events.
 
 <p align = "left">
-<a href="BioCAsia/README.md"><img src="BioCAsia/BioCAsia.png" height="100"></a>
+<a href="events/BioCAsia/README.md"><img src="events/BioCAsia/BioCAsia.png" height="100"></a>
 <a href="events/BiocAsia2015/README.md"><img src="events/BiocAsia2015/biocasia2015.png" height="100"></a>
 <a href="events/BiocAsia2016/README.md"><img src="events/BiocAsia2016/biocasia2016.png" height="100"></a>
 <a href="events/CSAMA/2017/README.md"><img src="events/CSAMA/2017/CSAMA2017.png" height="100"></a>
@@ -328,3 +338,9 @@ Domain License.
 You can copy, modify, distribute and perform the work, even for
 commercial purposes, all without asking permission. See more details
 [here](https://creativecommons.org/publicdomain/zero/1.0/).
+
+# Sticker processing scripts
+
+- [Use this on BiocStickers to check whether a package is in
+  Bioconductor](https://gist.github.com/LiNk-NY/5f9c2b0e665002eba976751c4e1f36c8),
+  by Marcel Ramos Pérez.
